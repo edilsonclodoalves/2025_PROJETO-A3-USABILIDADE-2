@@ -1,0 +1,20 @@
+
+    Directory: C:\A3-FULL\IMAGENS
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          06/06/2025    13:57              0 imagens.txt
+-a---          06/06/2025    13:33        2890479 picole_chocolate_creme.png
+-a---          06/06/2025    13:33        2808952 picole_chocolate.png
+-a---          06/06/2025    13:33        2223112 picole_coco.png
+-a---          06/06/2025    13:33        2093488 picole_de_manga.png
+-a---          06/06/2025    13:33        2772898 picole_limao.png
+-a---          06/06/2025    13:33        2324508 picole_maracuja.png
+-a---          06/06/2025    13:33        2477561 picole_morango_especial.png
+-a---          06/06/2025    13:33        2930703 picole_morango_normal.png
+-a---          06/06/2025    13:33        2541677 sorvete_cafe.png
+-a---          06/06/2025    13:33        2637731 sorvete_chocolate_1l.png
+-a---          06/06/2025    13:33        2255884 sorvete_chocolate.png
+-a---          06/06/2025    13:33        2316960 sorvete_menta.png
+-a---          06/06/2025    13:33        2185655 sorvete_pistache.png
+
